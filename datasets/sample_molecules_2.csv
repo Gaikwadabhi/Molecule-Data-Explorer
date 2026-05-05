@@ -1,0 +1,31 @@
+id,name,formula,molecular_weight,solubility,toxicity,category
+1,Caffeine,C8H10N4O2,194.19,High,Low,Stimulant
+2,Aspirin,C9H8O4,180.16,Medium,Low,Analgesic
+3,Ethanol,C2H6O,46.07,High,Medium,Solvent
+4,Glucose,C6H12O6,180.16,High,Low,Sugar
+5,Benzene,C6H6,78.11,Low,High,Solvent
+6,Paracetamol,C8H9NO2,151.16,Medium,Low,Analgesic
+7,Ibuprofen,C13H18O2,206.28,Low,Low,Analgesic
+8,Dopamine,C8H11NO2,153.18,High,Low,Neurotransmitter
+9,Cholesterol,C27H46O,386.65,Low,Low,Lipid
+10,Urea,CH4N2O,60.06,High,Low,Waste
+11,Methanol,CH4O,32.04,High,High,Solvent
+12,Acetone,C3H6O,58.08,High,Medium,Solvent
+13,Hemoglobin,C2952H4664N812O832S8Fe4,64500.00,Medium,Low,Protein
+14,Insulin,C257H383N65O77S6,5807.57,High,Low,Hormone
+15,Penicillin,C16H18N2O4S,334.39,Medium,Low,Antibiotic
+16,Morphine,C17H19NO3,285.34,Medium,High,Analgesic
+17,Nicotine,C10H14N2,162.23,High,High,Stimulant
+18,Fructose,C6H12O6,180.16,High,Low,Sugar
+19,Sucrose,C12H22O11,342.30,High,Low,Sugar
+20,Serotonin,C10H12N2O,176.21,High,Low,Neurotransmitter
+21,Melatonin,C13H16N2O2,232.28,Low,Low,Hormone
+22,Adrenaline,C9H13NO3,183.20,High,Low,Hormone
+23,Chlorophyll,C55H72MgN4O5,893.51,Low,Low,Pigment
+24,Acetic Acid,C2H4O2,60.05,High,Low,Acid
+25,Sodium Chloride,NaCl,58.44,High,Low,Salt
+26,Vitamin C,C6H8O6,176.12,High,Low,Vitamin
+27,Vitamin D,C27H44O,384.64,Low,Medium,Vitamin
+28,Testosterone,C19H28O2,288.42,Low,Low,Hormone
+29,Estrogen,C18H24O2,272.38,Low,Low,Hormone
+30,Cortisol,C21H30O5,362.46,Medium,Low,Hormone
